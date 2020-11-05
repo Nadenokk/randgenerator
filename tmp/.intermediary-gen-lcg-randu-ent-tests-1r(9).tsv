@@ -1,0 +1,14 @@
+# ENT statistical test results
+# !!! INTERMEDIATE DATA AFTER 1 ROUNDS
+# Linear congruential generator
+# parameters: m=281474976710656, a=25214903917, c=11
+# seed (state): 1785630606
+state	248888024415428
+entropy	0.9999997753983391
+chi_sq	0.311364
+mean	0.500279
+monte_pi	3.1261940191043056
+scc	0.00013168867700311321
+
+# Final generator state: (3, 281474976710656, 25214903917, 11, 248888024415428)
+# Final generator info: Linear congruential generator, parameters: m=281474976710656, a=25214903917, c=11, seed (state): 1785630606

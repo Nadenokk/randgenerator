@@ -1,0 +1,14 @@
+# ENT statistical test results
+# !!! INTERMEDIATE DATA AFTER 1 ROUNDS
+# Linear Feedback Shift Register
+# parameters: length=131, taps=(131, 130, 84, 83)
+# seed (register state): 144645216891603752747012482639761320839
+state	2366105340262329551708986720343427447436
+entropy	0.9999998751664798
+chi_sq	0.173056
+mean	0.499792
+monte_pi	3.1430902894446313
+scc	0.0006598270581870313
+
+# Final generator state: (3, 131, (131, 130, 84, 83), 2366105340262329551708986720343427447436)
+# Final generator info: Linear Feedback Shift Register, parameters: length=131, taps=(131, 130, 84, 83), seed (register state): 144645216891603752747012482639761320839

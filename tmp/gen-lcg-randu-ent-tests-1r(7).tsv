@@ -1,0 +1,17 @@
+# Linear congruential generator
+# parameters: m=2147483648, a=65539, c=0
+# seed (state): 1650879551
+# 
+# ENT statistical test results
+# 1 rounds of 1,000,000 bits long samples
+# Time elapsed for generation and testing: 0.859s
+#
+state	184862742
+entropy	0.9992564032837308
+chi_sq	1030.666816
+mean	0.483948
+monte_pi	3.365813853021648
+scc	-0.0324360976254631
+
+# Final generator state: (3, 2147483648, 65539, 0, 184862742)
+# Final generator info: Linear congruential generator, parameters: m=2147483648, a=65539, c=0, seed (state): 184862742

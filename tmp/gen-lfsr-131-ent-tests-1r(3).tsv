@@ -1,0 +1,17 @@
+# Linear Feedback Shift Register
+# parameters: length=131, taps=(131, 130, 84, 83)
+# seed (register state): 271968985502785346545437413395052886885
+# 
+# ENT statistical test results
+# 1 rounds of 1,000,000 bits long samples
+# Time elapsed for generation and testing: 3.11s
+#
+state	774744133705539952350533703886766500255
+entropy	0.9999996134846518
+chi_sq	0.535824
+mean	0.500366
+monte_pi	3.14097825565209
+scc	0.00031946434717666436
+
+# Final generator state: (3, 131, (131, 130, 84, 83), 774744133705539952350533703886766500255)
+# Final generator info: Linear Feedback Shift Register, parameters: length=131, taps=(131, 130, 84, 83), seed (register state): 774744133705539952350533703886766500255
